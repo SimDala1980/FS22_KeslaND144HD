@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="74">
+    <author>Giants/ Edited by Remy</author>
+    <version>1.0.1.0</version>
+	
+    <title>
+        <en>Kesla ND144HD</en>
+    </title>
+	
+    <description>
+        <en>
+            <![CDATA[
+Kesla ND144HD
+
+Colorchanges for the Crane, Chassis and Rims
+Stake tips now in yellow
+Extendable rear end
+The taillights can be retracted for use in the forest
+Changed tire choice
+Crane lights added
+The engine speed increases when the crane is moved.
+You can get into the trailer / tab for additional crane cameras.
+Adjusted crane sound.
+
+Price: from € 45,000
+]]>
+        </en>
+        <de>
+<![CDATA[
+Kesla ND144HD
+
+Farbwahl für Kran, Chassis und Felgen
+Rungenspitzen nun in Gelb
+Heck ausziehbar 
+Rückleuchten für den Waldbetrieb versenkbar
+Reifenwahl geändert
+Kranbeleuchtung hinzugefügt
+Motordrehzahl erhöht sich beim Kranbewegen.
+Man kann in den Anhänger einsteigen/Tabben für zusätzliche Krancameras.
+Kran Sound angepasst.
+
+Preis: ab 45.000 €
+]]>
+        </de>
+    </description>
+	
+    <iconFilename>icon.dds</iconFilename>
+	
+	<multiplayer supported="true"/>
+	
+    <storeItems>
+        <storeItem xmlFilename="nd122.xml"/>
+    </storeItems>
+	
+	<l10n>
+		<text name="Street">
+			<en>Street Lighting</en>
+			<de>Strassen Beleuchtung</de>
+		</text>
+		<text name="Forest">
+			<en>Forest Lighting </en>
+			<de>Wald Beleuchtung</de>
+		</text>
+	</l10n>
+</modDesc>
