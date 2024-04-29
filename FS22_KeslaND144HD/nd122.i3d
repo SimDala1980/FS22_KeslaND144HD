@@ -478,9 +478,10 @@
             </TransformGroup>
             <TransformGroup name="camera01RaycastNode01" translation="0 3.46845 1.3214" nodeId="398"/>
             <TransformGroup name="camera01RaycastNode02" translation="0 2.58514 -2.88195" nodeId="399"/>
-            <TransformGroup name="followCrane" translation="-1 4 4" nodeId="400">
-              <Camera name="cameraFollowCrane" rotation="0 180 0" nodeId="401" fov="60" nearClip="0.1" farClip="10000" orthographicHeight="1"/>
+            <TransformGroup name="followCrane" translation="-1 4 5" nodeId="400">
+              <Camera name="cameraFollowCrane" nodeId="401" fov="60" nearClip="0.1" farClip="10000" orthographicHeight="1"/>
             </TransformGroup>
+            <TransformGroup name="followCraneRefFrame" translation="-1 4 5" nodeId="467"/>
           </TransformGroup>
         </Shape>
         <TransformGroup name="skinnedMeshs" nodeId="402">

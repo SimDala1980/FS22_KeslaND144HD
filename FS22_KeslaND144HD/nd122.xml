@@ -443,7 +443,7 @@
             </movingPart>
 			
 			<movingPart node="0>0|2|2|1|5" referencePoint="0>0|2|2|1|0|0|0|0|0|0|5" referenceFrame="0>" isActiveDirty="true" invertZ="true" maxUpdateDistance="100"/>
-            <movingPart node="0>0|10|3" referencePoint="clawJoint1" referenceFrame="0>" isActiveDirty="true" maxUpdateDistance="100" />
+            <movingPart node="0>0|10|3" referencePoint="clawJoint1" referenceFrame="0>0|10|4" isActiveDirty="true" maxUpdateDistance="100" />
         </movingParts>
 		<sounds>
             <actionSound template="defaultHydraulicSound" pitchScale="0.9" volumeScale="2.3" linkNode="clawLeftJoint" 		actionNames="TOOL_MOVE_NEG TOOL_MOVE_POS"                     nodes="clawLeftJoint" fadeIn="0.2" fadeOut="0.05"/>
